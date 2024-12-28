@@ -29,7 +29,7 @@ The inventory system supports:
 - 🛒 Selling items with real-time updates on inventory and earnings.
 - 📋 Displaying a detailed list of all items in the inventory.
 
-> Refer to the implementation in `task-4-starter.cpp`.
+> Refer to the implementation in `InventoryManagement.cpp`.
 
 ## 🛠️ Getting Started
 
